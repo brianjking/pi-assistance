@@ -9,12 +9,7 @@ Welcome to Pi Assistance's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   octoprint
+   raspbian
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
